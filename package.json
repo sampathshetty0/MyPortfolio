@@ -1,1 +1,9 @@
-{ "name": "sampath-portfolio", "version": "1.0.0", "private": true }
+{
+  "name": "sampath-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "devDependencies": {}
+}
